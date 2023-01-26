@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="2a39be0c-7dab-4d20-b51e-95bda55b49f0" name="@AcademicSystem Mapping">
+      <data-sources db="a3c28e16-7198-4872-a0db-ad4300cd9c62" />
+      <scope>
+        <node negative="1">
+          <node kind="database" qname="@">
+            <node kind="schema" qname="@" />
+          </node>
+          <node kind="schema" qname="academic system" />
+        </node>
+      </scope>
+    </mapping>
+  </component>
+</project>
